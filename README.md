@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 <p>
-  My name is "AmirHossein NajafiZadeh".<br />
-  I am a 19 years old Computer Engineer at "AmirKabir" University in Tehran, Iran.
+  My name is <i>"AmirHossein NajafiZadeh"</i>.<br />
+  I am a 19 years old Computer Engineer at <b>"AmirKabir" University in Tehran</b>, Iran.
 </p>
+
+<img src="https://github.com/Official21A/Official21A/blob/main/git.jpg" width="600" />
 
 
 - 🔭 I’m currently working on my university projects and I'm trying to finish my courses.
@@ -14,9 +16,9 @@
 <h2>
   <br />
   My statements and status in git :
- </h2>
+</h2>
  
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Official21A&show_icons=true&theme=tokyonight) <br />
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Official21A&theme=tokyonight) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Official21A&show_icons=true&theme=tokyonight) <br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Official21A&theme=tokyonight) 
  
  
