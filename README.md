@@ -5,7 +5,7 @@
   I am a 19 years old Computer Engineer at <b>"AmirKabir" University in Tehran</b>, Iran.
 </p>
 
-<img src="https://github.com/Official21A/Official21A/blob/main/git.jpg" width="600" />
+<img align="center" src="https://github.com/Official21A/Official21A/blob/main/git.jpg" width="600" />
 
 
 - 🔭 I’m currently working on my university projects and I'm trying to finish my courses.
@@ -17,8 +17,10 @@
   <br />
   My statements and status in git :
 </h2>
- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Official21A&show_icons=true&theme=tokyonight) <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Official21A&theme=tokyonight) 
- 
- 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Official21A&show_icons=true&theme=great-gatsby&line_height=29" />
+</a> <br />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Official21A&theme=great-gatsby&hide=html,CSS" />
+</a>
