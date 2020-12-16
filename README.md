@@ -19,8 +19,8 @@
 </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Official21A&show_icons=true&theme=great-gatsby&line_height=29" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Official21A&show_icons=true&theme=great-gatsby&line_height=29" width="800" />
 </a> <br />
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Official21A&theme=great-gatsby&hide=html,CSS" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Official21A&theme=great-gatsby&hide=html,CSS" width="500"/>
 </a>
